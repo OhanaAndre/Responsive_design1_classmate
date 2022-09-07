@@ -1,6 +1,12 @@
+body{
+background: skyblue;
+}
+
 h1{
 	color: yellow;
 }
+
 p{
 	color: red;
+	font-family : Helvetica;
 }
